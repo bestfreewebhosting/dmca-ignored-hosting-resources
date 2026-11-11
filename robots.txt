@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestfreewebhosting.github.io/dmca-ignored-hosting-resources/sitemap.xml
